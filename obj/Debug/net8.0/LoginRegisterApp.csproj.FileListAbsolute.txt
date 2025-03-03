@@ -1,0 +1,8 @@
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.csproj.AssemblyReference.cache
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.AssemblyInfoInputs.cache
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.AssemblyInfo.cs
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.RazorAssemblyInfo.cache
+C:\Users\ahuevo nice\source\repos\LoginRegisterApp\obj\Debug\net8.0\LoginRegisterApp.RazorAssemblyInfo.cs
